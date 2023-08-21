@@ -1,0 +1,14 @@
+Task : Insect Audio Classification : Deep learning
+
+Domain :BioDiversity
+
+Issues:
+
+1) Use leaf extraction fronted for optimization
+1) To find sound event detection clip from audio 
+2) optimizing model parameters and use some diff deep learning model to test accuracy.
+
+
+
+
+
